@@ -1,0 +1,7 @@
+{
+  "name": "Wails shadcn/ui template",
+  "shortname": "wails-template-shadcn",
+  "author": "Cilps",
+  "description": "A Wails + shadcn/ui template.",
+  "helpurl": "https://github.com/cilps/wails-template-shadcn"
+}
