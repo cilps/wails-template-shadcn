@@ -1,5 +1,7 @@
 # Wails + shadcn/ui template
 
+Use with: `wails init -n "Your Project Name" -t https://github.com/cilps/wails-template-shadcn`.
+
 This is my interpretation of a _"good"_ Wails template.
 
 It uses:
